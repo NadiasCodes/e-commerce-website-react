@@ -1,5 +1,5 @@
 :root {
-  --main-color: rgb(54, 3, 3);
+  --main-color: rgb(112, 92, 39);
 }
 
 .navbar {
@@ -7,6 +7,7 @@
   justify-content: space-around;
   padding: 15px;
   box-shadow: 0 1px 3px -2px black;
+  
 }
 
 .nav-logo {
@@ -29,6 +30,8 @@
   color: black;
   font-size: 20px;
   font-weight: 500;
+  
+   
 }
 
 .nav-menu li {
@@ -38,15 +41,16 @@
   justify-content: center;
   gap: 3px;
   cursor: pointer;
+  
+ 
 }
 
 .nav-menu hr {
   border: none;
-
-  width: 80%;
+   width: 80%;
   height: 3px;
   border-radius: 10px;
-  background: var(--main-color);
+  background: rgb(112, 92, 39);
 }
 
 .nav-login-cart {
@@ -58,12 +62,43 @@
 .nav-login-cart button {
   width: 157px;
   height: 58px;
-  outline: none;
-  border: 1px solid #7a7a7a;
-  border-radius: 75px;
-  color: #515151;
-  font-size: 20px;
-  font-weight: 500;
-  background: white;
+  background-color: transparent;
   cursor: pointer;
+  border: 2px solid #252525;
+  overflow: hidden;
+  border-radius: 30px;
+  color: #333;
+  transition: all 0.5s ease-in-out;
+  font-size: 17px;
+  font-weight: 500;
 }
+.nav-login-cart button:hover{
+  box-shadow: 1px 1px 10px #111111;
+  color: black;
+  border: none;
+}
+
+
+
+
+
+
+
+
+
+.nav-cart-count{
+  width:22px;
+  height:22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -35px;
+  margin-left: -55px;
+  border-radius: 11px;
+  font-size: 14px;
+  background: var(--main-color);
+  color: white;
+
+}
+a:-webkit-any-link {
+    color: black;}
