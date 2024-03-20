@@ -18,7 +18,7 @@ let data_product = [
     old_price:120.50,
   },
   {id:3,
-    name:"Oversized leather jacket",
+    name:"Oversized Leather Jacket",
     image:p3_img,
     new_price:60.00,
     old_price:100.50,

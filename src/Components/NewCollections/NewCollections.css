@@ -3,7 +3,7 @@
 flex-direction: column;
 align-items: center;
 gap:10px;
-height:90vh;
+margin-bottom: 200px;
 margin: 40px;}
 
 .new-collections h1{color:#171717;
@@ -17,7 +17,7 @@ border-bottom: 4px solid var(--secondary-color);
 
 .collections{
     display:grid;
-    grid-template-columns:1fr 1fr 1fr 1fr ;
+    grid-template-columns:repeat(4, 1fr);
     margin-top:50px;
     gap:30px;
     
