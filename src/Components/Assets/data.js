@@ -5,15 +5,30 @@ import p4_img from './product_4.png'
 
 let data_product = [
   {
-    id: 1,
-    name: "Wool Blend Jumper",
-    image: p1_img,
-    new_price: 50.0,
-    old_price: 80.5,
+    id:1,
+    name:"Short Sleeve Polyamide T-shirt",
+    image:p1_img,
+    new_price:50.00,
+    old_price:80.50,
   },
-  { id: 2, name: "Oversized Hoodie", image: p2_img, new_price: 85.0, old_price: 120.5 },
-  { id: 3, name: "Nike Athletics Tank Top", image: p3_img, new_price: 60.0, old_price: 100.5 },
-  { id: 4, name: "SOFT-TOUCH - Jumper", image: p4_img, new_price: 100.0, old_price: 150.0 },
+  {id:2,
+    name:"Oversized Hoodie",
+    image:p2_img,
+    new_price:85.00,
+    old_price:120.50,
+  },
+  {id:3,
+    name:"Oversized leather jacket",
+    image:p3_img,
+    new_price:60.00,
+    old_price:100.50,
+  },
+  {id:4,
+    name:"Cotton Sweatshirt",
+    image:p4_img,
+    new_price:100.00,
+    old_price:150.00,
+  },
 ];
 
 export default data_product;

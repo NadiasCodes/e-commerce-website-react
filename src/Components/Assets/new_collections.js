@@ -10,21 +10,21 @@ import p8_img from "./product_28.png";
 let new_collections = [
   {
     id: 12,
-    name: "Short sleeve polyamide T-shirt",
+    name: "Short Sleeve Polyamide T-shirt",
     image: p1_img,
     new_price: 50.0,
     old_price: 80.5,
   },
   {
     id: 35,
-    name: "Tulle-skirt jersey dress",
+    name: "Tulle-Skirt Jersey Dress",
     image: p2_img,
-    new_price: 25.0,
-    old_price: 40.0,
+    new_price: 85.0,
+    old_price: 120.5,
   },
   {
     id: 14,
-    name: "Elegant trousers-Slim fit",
+    name: "Elegant Trousers-Slim Fit",
     image: p3_img,
     new_price: 60.0,
     old_price: 100.5,
@@ -38,7 +38,7 @@ let new_collections = [
   },
   {
     id: 15,
-    name: "Loose Fit Parachute trousers",
+    name: "Loose Fit Parachute Trousers",
     image: p5_img,
     new_price: 50.0,
     old_price: 80.5,
@@ -52,17 +52,17 @@ let new_collections = [
   },
   {
     id: 17,
-    name: "Jacket with sewin waistband",
+    name: "Creamy Jean Jacket",
     image: p7_img,
     new_price: 60.0,
     old_price: 100.5,
   },
   {
     id: 28,
-    name: "Cotton Sweatshirt",
+    name: "Green Cotton Sweatshirt",
     image: p8_img,
-    new_price: 20.0,
-    old_price: 35.0,
+    new_price: 100.0,
+    old_price: 150.0,
   },
 ];
 
