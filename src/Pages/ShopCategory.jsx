@@ -33,7 +33,10 @@ else {
 })}
 
 </div>
+<div className="shopcategory-loadmore">
 
+  Exlore More
+</div>
     </div>
   );
 }
