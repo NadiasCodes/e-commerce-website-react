@@ -17,7 +17,7 @@ const Hero = () => {
             <img src={clothes_hanger_icon} alt="hero-icon" />
           </div>
           <p>Collections</p>
-          <p>For Everyone</p>
+          
         </div>
         <div className="hero-latest-btn">
           <a href="#NewCollections">
