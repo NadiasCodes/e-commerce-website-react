@@ -1,3 +1,6 @@
+#Notes: Please keep in mind that this project is still under development. 
+Media Queries are still yet to be added.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
