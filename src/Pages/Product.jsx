@@ -3,6 +3,7 @@ import {ShopContext} from "../Context/ShopContext"
 import { useParams } from "react-router-dom";
 import ProductDisplay from "../Components/ProductDisplay/ProductDisplay";
 import Filter from "../Components/Filter/Filter";
+import DescriptionBox from "../Components/DescriptionBox/DescriptionBox";
 
 export default function Product() {
   const{all_product}= useContext(ShopContext);
@@ -14,6 +15,7 @@ export default function Product() {
 
 <Filter product={product}/>
 <ProductDisplay product={product}/>
+<DescriptionBox />
 
   </div>
   );
