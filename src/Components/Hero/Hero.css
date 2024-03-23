@@ -1,6 +1,6 @@
 
 
-.hero{height:100vh;
+.hero{
  background-image:var(--background-image-main);
  display:flex;   
 }
@@ -21,15 +21,18 @@ letter-spacing: 9px;
 color:#7f8591;
 }
 
-.hero-left p{color:var(--main-color);
+.hero-left p{
+color:var(--main-color);
 font-size: 100px;
 font-weight: 700;}
 
-.hero-clothes-hanger-icon{display: flex;
+.hero-clothes-hanger-icon{
+display: flex;
 align-items: center;
 gap:20px;}
 
-.hero-clothes-hanger-icon img{width:105px;}
+.hero-clothes-hanger-icon img{
+    width:105px;}
 
 .hero-latest-btn a{
     display: flex;
@@ -55,7 +58,8 @@ gap:20px;}
    
 }
 
-.hero-right{flex:1;
+.hero-right{
+flex:1;
 display:flex;
 align-items: center;
 justify-content: center;}
