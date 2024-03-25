@@ -91,8 +91,8 @@
   }
 }
 
-@media (max-width: 500px){
-    .shopcategory-products{
-        grid-template-columns: repeat(2, 1fr);
-    }
+@media (max-width: 500px) {
+  .shopcategory-products {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
