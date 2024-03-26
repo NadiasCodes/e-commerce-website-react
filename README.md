@@ -1,15 +1,18 @@
 #Notes:
 
-Finally, after days of hard work, I was able to finish the E-Commerce Website.
-This was a new experience for me and I learned so many new things.
+About the project:
 
-In that project, I learned how to use multiple pages in React, using **React Router**
-and, I learned about **Router Context**, where I worked with local data. 
+I just finished my E-Commerce Website project after putting in days of hard work. It was quite a new experience for me, and I ended up learning a lot.
 
-Despite that at that time didn't seem that complicated, I feel that
-I will need to study them more, so I can understand their function fully and try to use these new skills by myself.
+In that project, I learned how to use multiple pages in React, using React Router and, I learned about Router Context, where I worked with local data.
 
-So my next step after this big project is to immerse myself in some more React and Javascript theory!
+While it didn't seem too tough at the time, I realized I needed to dive deeper into these concepts to grasp them fully. My plan now is to focus on understanding 
+React and JavaScript theory better. It's time for some Pomodoro studying sessions and I cannot wait to start my next project!
+
+About the design:
+
+I had a great time configuring the design of this project. I took the time to design my banners my logo, and my images using Canva! 
+Also, I spent some time choosing the appropriate colors. I decided to keep a minimal and clean style, hence the name I chose to use.
 
 
 
